@@ -1,3 +1,3 @@
 # Online-Portfolio
-echo "Say hello to Bảo Almighty!!!"
-sleep 10
+Say hello to Bảo Almighty!!!
+
